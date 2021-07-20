@@ -4,7 +4,8 @@
   "description": "Manage employee departments and roles",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/c-Rando/employeeManagementSystem/issues"
   },
-  "homepage": "https://github.com/c-Rando/employeeManagementSystem#readme"
+  "homepage": "https://github.com/c-Rando/employeeManagementSystem#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.2",
+    "mysql": "^2.18.1"
+  }
 }
