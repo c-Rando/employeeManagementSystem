@@ -31,7 +31,7 @@ You can see here that we have built a command-line application that allows the u
 
   * Update employee roles
 
-Click here (  ) to see a video tutorial of how Employee Management System operates.
+Click here ( https://youtu.be/vcMAzP3priU ) to see a video tutorial of how Employee Management System operates.
 
 
 
